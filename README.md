@@ -37,6 +37,7 @@ To achive that, I used:
 6. embedding dim: 200
 7. hidden dim: 256
 8. number of RNN layers: 2
+<br />
 Last epoch's loss is 3.25
 
 ## References
