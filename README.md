@@ -28,6 +28,7 @@ Generate TV scripts using RNN and LSTM
 
 ## Result & Conclusion
 Aim loss is 3.5
+<br />
 To achive that, I used:
 1. clipping rate : 10
 2. no of words in a sequence: 10
